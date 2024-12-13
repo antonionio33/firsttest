@@ -4624,3 +4624,41 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [13Dec2024 22:08:47.628] [Server thread/INFO] [ping-wheel/]: Channel update: Territoon -> default
 [13Dec2024 22:08:47.631] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [13Dec2024 22:08:47.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40702ms or 814 ticks behind
+[13Dec2024 22:11:06.922] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LordFurius072 is 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[13Dec2024 22:11:07.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e0e409c[id=3c311ea8-ae60-4e11-a694-33a09cf948bc,name=LordFurius072,properties={textures=[com.mojang.authlib.properties.Property@1520dd4]},legacy=false] (/127.169.15.67:57833) lost connection: Disconnected
+[13Dec2024 22:12:33.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Territoon lost connection: Disconnected
+[13Dec2024 22:12:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon left the game
+[13Dec2024 22:12:33.189] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e8aa042f-eec1-4a81-be8a-0eaa17183222
+[13Dec2024 22:13:30.053] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[13Dec2024 22:13:30.053] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[13Dec2024 22:13:49.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Dec2024 22:13:49.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 22:13:49.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 22:13:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 22:13:49.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Dec2024 22:13:49.921] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[13Dec2024 22:13:49.921] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[13Dec2024 22:13:49.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[13Dec2024 22:13:50.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Dec2024 22:13:50.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[13Dec2024 22:13:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Dec2024 22:13:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[13Dec2024 22:13:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[13Dec2024 22:13:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Dec2024 22:13:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Dec2024 22:13:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 22:13:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[13Dec2024 22:13:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 22:13:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Dec2024 22:13:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Dec2024 22:13:50.681] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[13Dec2024 22:13:50.681] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[13Dec2024 22:13:50.683] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Dec2024 22:13:50.684] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[13Dec2024 22:13:50.686] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Dec2024 22:13:50.686] [Server thread/INFO] [Framework/]: Finished unloading server configs
